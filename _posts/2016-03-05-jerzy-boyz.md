@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'queering the empty space bringing gratowski to actresses. '
-datePublished: '2016-03-05T05:22:40.506Z'
-dateModified: '2016-03-05T05:22:06.953Z'
+datePublished: '2016-03-05T05:26:51.190Z'
+dateModified: '2016-03-05T05:26:07.882Z'
 title: Jerzy Boyz
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: jerzy-boyz/index.html
-_type: WebPage
+_type: Article
 
 ---
 I very much admire the core ideas that i have learned from gratowski's experiments. They were written in the mid twentieth century and so they use very male-centric language which i intend to re-phrase for accessibility to a wider array of actors - considering all humans respective "actors" of whatever role they are destined to play...
