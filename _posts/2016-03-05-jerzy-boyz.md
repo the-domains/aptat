@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'queering the empty space bringing gratowski to actresses. '
-datePublished: '2016-03-05T05:26:51.190Z'
-dateModified: '2016-03-05T05:26:07.882Z'
+datePublished: '2016-03-05T05:28:24.595Z'
+dateModified: '2016-03-05T05:26:56.061Z'
 title: Jerzy Boyz
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
