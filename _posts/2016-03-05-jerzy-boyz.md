@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'queering the empty space bringing gratowski to actresses. '
-datePublished: '2016-03-05T06:42:09.468Z'
-dateModified: '2016-03-05T06:40:25.379Z'
+datePublished: '2016-03-05T06:42:50.517Z'
+dateModified: '2016-03-05T06:42:50.111Z'
 title: "jerzys' boyz"
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
@@ -22,7 +22,7 @@ url: jerzy-boyz/index.html
 _type: Article
 
 ---
-![Jerzy Grotowski, 1997, photo: Maciej Skawiński / Forum](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da76c22f-f6c2-4897-b805-068c53f1b192.jpg)
+![Jerzy Grotowski, 1997, photo: Maciej Skawiński / Forum](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd44dec0f6cd6b7a7dfc47a0d40f8bfd19a94de3.jpg)
 
 I very much admire the core ideas that i have learned from gratowski's experiments. They were written in the mid twentieth century and so they use very male-centric language which i degender and recreate - considering all humans respective "actors" of whatever roles they are destined and/or both determined to play...
 
