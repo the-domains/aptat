@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'queering the empty space bringing gratowski to actresses. '
-datePublished: '2016-03-05T04:29:10.132Z'
-dateModified: '2016-03-05T04:27:18.749Z'
+datePublished: '2016-03-05T04:37:50.094Z'
+dateModified: '2016-03-05T04:36:50.316Z'
 title: Jerzy Boyz
 author: []
+sourcePath: _posts/2016-03-05-jerzy-boyz.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-jerzy-boyz.md
-published: true
 url: jerzy-boyz/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 "In our opinion, the conditions essential to the art of acting are the following, and should be made the object of a methodical investigation:
