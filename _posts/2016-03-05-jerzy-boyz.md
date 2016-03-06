@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'queering the empty space; bringing gratowski to actress. '
-datePublished: '2016-03-05T07:02:32.215Z'
-dateModified: '2016-03-05T06:57:17.676Z'
+datePublished: '2016-03-06T23:01:42.854Z'
+dateModified: '2016-03-06T23:01:33.208Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
@@ -22,11 +22,12 @@ url: jerzy-boyz/index.html
 _type: Article
 
 ---
+I admire the core ideas that i have learned from gratowski's experiments. They were written in the mid twentieth century in a very male-centric language which i degender and recompose - considering all humans respective or prospective "actors" of whatever roles they are destined and/or both determined to play...
 ![Jerzy Grotowski, 1997, photo: Maciej Skawiński / Forum](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd44dec0f6cd6b7a7dfc47a0d40f8bfd19a94de3.jpg)
 
-I very much admire the core ideas that i have learned from gratowski's experiments. They were written in the mid twentieth century and so they use very male-centric language which i degender and recreate - considering all humans respective "actors" of whatever roles they are destined and/or both determined to play...
+Jerzy Gratowski  
 
-Jerzy Gratowski  **"Theatre director and theoretician, educator, creator of acting methods. Born in 1933 in the city of Rzeszów in southeastern Poland and died in 1999 in Pontedera, Italy. He is considered to have been one of the greatest reformers of 20th century theatre." \***
+**"Theatre director and theoretician, educator, creator of acting methods. Born in 1933 in the city of Rzeszów in southeastern Poland and died in 1999 in Pontedera, Italy. He is considered to have been one of the greatest reformers of 20th century theatre." \***
 
 "In our opinion, the conditions essential to the art of acting are the following, and should be made the object of a methodical investigation:
 
