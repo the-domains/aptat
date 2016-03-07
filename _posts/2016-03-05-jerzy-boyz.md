@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'queering the empty space; bringing gratowski to actress. '
-datePublished: '2016-03-07T00:50:29.148Z'
-dateModified: '2016-03-07T00:50:25.646Z'
+datePublished: '2016-03-07T00:52:57.370Z'
+dateModified: '2016-03-07T00:52:28.419Z'
 title: jerzys boys...
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: jerzys-boys/index.html
+_type: Article
 
 ---
 I admire the core ideas that i have learned from gratowski's experiments. They were written in the mid twentieth century in a very male-centric language which i degender and recompose - considering all humans respective or prospective "actors" of whatever roles they are destined and/or both determined to play...
