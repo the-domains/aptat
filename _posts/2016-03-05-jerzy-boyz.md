@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'queering the empty space; bringing gratowski to actress. '
-datePublished: '2016-03-07T00:52:57.370Z'
-dateModified: '2016-03-07T00:52:28.419Z'
+datePublished: '2016-03-07T07:04:41.450Z'
+dateModified: '2016-03-07T00:53:08.760Z'
 title: jerzys boys...
 author: []
 sourcePath: _posts/2016-03-05-jerzy-boyz.md
